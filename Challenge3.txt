@@ -1,1 +1,8 @@
+start: left 
+skip
+goto start
+speedup: left
+left
+left
+goto speedup
 
